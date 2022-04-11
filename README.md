@@ -22,6 +22,10 @@ pip install future
 
 git clone https://github.com/rimon1000/r
 
+ls
+
 cd r
+
+ls
 
 python2 rimon.py
