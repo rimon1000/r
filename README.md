@@ -20,4 +20,8 @@ pip install npm
 
 pip install future
 
-git clone git https:/
+git clone https://github.com/rimon1000/r
+
+cd r
+
+python2 rimon.py
